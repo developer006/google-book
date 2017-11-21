@@ -2,7 +2,7 @@
 Angular5 training project
 
 Todo:
-* setup site
+* setup site &#10004;
 * set up angular test environment
 * study google books api, auth
 * list the books
